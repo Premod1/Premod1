@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
-**Premod1/Premod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Premod
+<hr/>
+<h3>Software Developer</h3>
+<hr/>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
