@@ -4,11 +4,11 @@ Hi 👋 My name is Pramod
 Software Developer
 ------------------
 
-* 🌍  I'm based in Sri lanka
+* 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [my website](https://premod1.github.io/Premod1/)
 * ✉️  You can contact me at [premodsuraweera1@gmail.com]
-* 🧠  I'm learning  python
-* ⚡  One man’s crappy software is another man’s full time job.
+* 🧠  I'm learning  Python
+* ⚡  One man’s crappy software is another man’s full-time job.
 
 - ### Skills
 
