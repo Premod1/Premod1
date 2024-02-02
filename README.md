@@ -8,7 +8,7 @@ Software Developer
 * 🖥️  See my portfolio at [my website](https://premod1.github.io/Premod1/)
 * ✉️  You can contact me at [premodsuraweera1@gmail.com]
 * 🧠  I'm learning  Python
-* ⚡  One man’s crappy software is another man’s full-time job.
+* ⚡  One man’s crappy software is another man’s full-time job...
 
 - ### Skills
 
