@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | Full Stack Engineer | Tech Enthusiast
 
-I'm a passionate software engineer with over 2 years of experience, currently working at **PramixIT**. My primary focus is on backend and full-stack development, and I've enjoyed working on a variety of real-world projects that solve meaningful problems.
+I'm a passionate software engineer with over 2 years of experience. I previously worked at PramixIT and have now joined NML. My primary focus is on backend and full-stack development, and I've enjoyed working on a variety of real-world projects that solve meaningful problems.
 
 ---
 
