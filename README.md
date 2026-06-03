@@ -43,5 +43,5 @@ My expertise spans engineering event-driven microservices, asynchronous desktop 
 ### 🤝 Connect With Me
 
 * 📧 **Email:** premodsuraweera1@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) <!-- 👀 LinkedIn එකේ හරියටම URL එක මෙතනට දාන්න -->
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/pramod-suraweera-dev/](https://www.linkedin.com/in/pramod-suraweera-dev/)
 * 📍 **Location:** Matale, Sri Lanka
