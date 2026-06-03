@@ -1,21 +1,47 @@
-# Hi 👋 I'm Pramod
+# Hi 👋 I'm Pramod Suraweera
 
-## 💻 Software Developer | Full Stack Engineer | Tech Enthusiast
+## Full-Stack Software Engineer | IoT & Systems Integration Specialist
 
-I'm a passionate software engineer with over 3 years of experience. I previously worked at PramixIT and have now joined NML. My primary focus is on backend and full-stack development, and I've enjoyed working on a variety of real-world projects that solve meaningful problems.
+I am a Full-Stack Software Engineer with over 3 years of professional experience, specializing in building robust backend architectures, custom Web APIs, and sophisticated hardware-to-software IoT integrations. 
+
+My expertise spans engineering event-driven microservices, asynchronous desktop bridges for smart payment terminals, and optimizing enterprise-grade web applications.
 
 ---
 
-### 🚀 Tech Stack & Tools
-- **Languages:** PHP, Python, JavaScript  
-- **Frameworks:** Laravel, Vue.js  
-- **Technologies:** AWS, Docker  
-- **Other Interests:** Distributed Systems, Big Data, AI
+### 🛠️ Core Expertise & Technologies
+
+* **Backend Architecture:** PHP (Advanced), Laravel, Node.js, C# (.NET), Python
+* **Frontend Development:** Vue.js, React, JavaScript (ES6+), Tailwind CSS
+* **IoT, Protocols & Real-Time:** MQTT, WebSockets, Hardware-Software Bridging
+* **Databases & Infrastructure:** MySQL, Linux, Cloudflare, AWS, Docker, Hostinger VPS, Vercel
+* **Integrations & E-commerce:** Shopify API, WooCommerce API, RESTful APIs, Third-Party Courier APIs
+
+---
+
+### 🚀 Highlighted Work & Technical Achievements
+
+* **Event-Driven IoT Hardware Printer Bridge** *(Node.js / MQTT / Laravel)*  
+  Engineered a lightweight infrastructure bridging system allowing web platforms to bypass traditional browser print dialogs. Built a Node.js local background service subscribing to MQTT topics to parse asynchronous order payload buffers, executing thermal POS receipt commands instantly with near-zero latency.
+
+* **Smart POS Payment Integration Bridge** *(C# / .NET / Laravel)*  
+  Developed an asynchronous middle-tier desktop application to bridge cloud web application requests and physical EMV card payment terminals, managing the full real-time transaction lifecycle and asynchronous callbacks securely.
+
+* **Enterprise E-commerce & Logistics Sync Pipelines**  
+  Integrated secure WooCommerce/Shopify webhooks and RESTful synchronization pipelines to optimize omni-channel inventory states, alongside automated waybill generation and real-time package dispatch routing matrices.
 
 ---
 
 ### 🎓 Education
-- 📘 Started my **BSc in Computer Engineering** in 2020  
-- 🎓 Earned my **Higher National Diploma (HND)**  
-- 🎯 Aiming to complete my degree within the next 2–3 years
 
+* **BSc in Computer Science** – Asia e University *(2022 – Present)*
+* **Advanced Diploma / Higher National Diploma (HND) level studies**
+* **Certificate in Computer Science** – NIBM *(2021)*
+
+
+---
+
+### 🤝 Connect With Me
+
+* 📧 **Email:** premodsuraweera1@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) <!-- 👀 LinkedIn එකේ හරියටම URL එක මෙතනට දාන්න -->
+* 📍 **Location:** Matale, Sri Lanka
